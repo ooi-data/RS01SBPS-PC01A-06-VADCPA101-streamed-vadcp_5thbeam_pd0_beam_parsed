@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-PC01A-06-VADCPA101-streamed-vadcp_5thbeam_pd0_beam_parsed
 data_stream: RS01SBPS-PC01A-06-VADCPA101-streamed-vadcp_5thbeam_pd0_beam_parsed
 end_date: '2015-12-02T15:38:07.812Z'
-last_updated: '2022-01-22T02:06:28.929838'
+last_updated: '2022-02-10T14:30:13.004824Z'
 start_date: '2014-09-29T01:53:00.000Z'
-status: success
+status: pending
